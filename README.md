@@ -1,21 +1,18 @@
-# Shakeel Dosani — Personal Portfolio
+# Shakeel Dosani — Portfolio V2
 
-Static, responsive portfolio website for GitHub Pages.
+Premium, responsive static portfolio website for GitHub Pages.
 
-## Publish
+## Deployment
 
-1. Create a **public** GitHub repository named `shakeel-dosani` under the `dosanilabs` account.
-2. Upload the **contents of this ZIP** to the repository root (`index.html` must be at root).
-3. In **Settings → Pages**, select **Deploy from a branch**, `main`, `/(root)` and save.
-4. Website: https://dosanilabs.github.io/shakeel-dosani/
+1. Create or open the public GitHub repository `dosanilabs/shakeel-dosani`.
+2. Upload the **contents** of this ZIP to the root of the repository. `index.html` must be in the repository root.
+3. Open **Settings → Pages** and select **Deploy from a branch → main → /(root)**.
+4. Visit https://dosanilabs.github.io/shakeel-dosani/ after deployment.
 
-No npm, build, or backend required. All site links are absolute or relative and compatible with the `/shakeel-dosani/` project path.
+## Notes
 
-## Edit
-
-- Content and links: `index.html`
-- Styles: `assets/style.css`
-- Mobile navigation: `assets/script.js`
-- Favicon: `assets/favicon.svg`
-
-The FinDos product image is a **stylized illustration**, not an authentic screenshot; replace with a real app screenshot if desired. No client names, project details, or employment claims have been invented. Google Fonts requires network connectivity; system fonts are used as fallback.
+- Real FinDos app screenshot sourced from the FinDos website materials.
+- No fake client testimonials, experience years, or project metrics.
+- No build step required; HTML, CSS, JS and a local image.
+- Contact: shakeeldosani02@gmail.com.
+- External Google Fonts are optional; the CSS includes fallback fonts.
